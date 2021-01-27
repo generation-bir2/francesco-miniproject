@@ -1,0 +1,8 @@
+Hi. Please choose an option:
+
+[0] Return
+[1] View all couriers
+[2] Create a new courier
+[3] Update courier
+[4] Delete courier
+

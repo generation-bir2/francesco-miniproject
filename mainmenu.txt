@@ -1,0 +1,13 @@
+#==========(")===#===(*)===#===(")==========#
+#                                           #
+#       Welcome to the Data House           #
+#                                           #
+#       Please choose an option:            #
+#                                           #
+#       Press [0] to exit app               #
+#       Press [1] for product menu          #
+#       Press [2] for couriers menu         #
+#                                           #
+#                                           #
+#==========(")===#===(*)===#===(")==========#
+
