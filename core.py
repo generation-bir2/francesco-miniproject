@@ -5,6 +5,7 @@ clear = lambda: os.system('cls' if os.name == 'nt' else 'clear')
 def function_clear():
     clear()
 
+#This is some random comment Nip added
 list_products = []
 
 # this reads the content of welcome/main menu txt file; saves to "mainmenu"
