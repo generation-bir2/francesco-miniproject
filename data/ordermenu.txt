@@ -1,0 +1,18 @@
+✵☆☆☆☆✪✪✪✪☆☆☆☆The Data House☆☆☆☆✪✪✪✪☆☆☆☆✵
+
+≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛≛
+✯                                      ✯   
+✯    Press 0 to exit the app           ✯
+✯                                      ✯
+✯    Press 1 to view all orders        ✯
+✯                                      ✯
+✯    Press 2 to add a new order        ✯
+✯                                      ✯
+✯    Press 3 to update a order         ✯
+✯                                      ✯
+✯    Press 4 to delete a order         ✯
+✯                                      ✯
+✯    Press 5 to return to main menu    ✯   
+✯                                      ✯   
+✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯✯
+

@@ -1,0 +1,15 @@
+.venv
+
+miniprojectvenv
+
+__pycache__
+
+Lib
+
+test/test
+
+Scripts
+
+miscellaneous
+
+programming
